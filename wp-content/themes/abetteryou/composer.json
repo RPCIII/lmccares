@@ -1,0 +1,10 @@
+{
+  "autoload":{
+    "psr-4":{
+        "Includes\\Modules\\": "inc/modules"
+    }
+  },
+  "require": {
+    "kerigansolutions/cpt": "^0.2.0"
+  }
+}

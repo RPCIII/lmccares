@@ -9,7 +9,6 @@ tags
 # Untracked prod/dev files
 wp-config.php
 wp-content/themes/abetteryou/vendor/
-wp-content/themes/abetteryou/
 
 # Untracked prod files
 # wp-content/uploads/**
