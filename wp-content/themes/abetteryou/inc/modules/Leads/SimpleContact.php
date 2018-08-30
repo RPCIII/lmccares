@@ -15,7 +15,7 @@ class SimpleContact extends Leads
         );
         parent::set('postType', 'Contact Submission');
         //parent::set('ccEmail', 'web@kerigan.com');
-        parent::set('adminEmail', 'bryan@kerigan.com');
+        parent::set('adminEmail', 'CHarcus@lmccares.org');
     }
 
     protected function showForm()
