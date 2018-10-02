@@ -209,8 +209,11 @@
                                 href="https://twitter.com/LmcCares?ref_src=twsrc%5Etfw" target="_blank"><img
                                     src="<?php echo get_template_directory_uri() ?>/img/twitter.png"
                                     alt="Follow us on Twitter"/></a><a
-                                href="https://plus.google.com/105590141144034467922/about" target="_blank"><img
+                                href="https://plus.google.com/100875553425235276955" target="_blank"><img
                                     src="<?php echo get_template_directory_uri() ?>/img/googleplus.png"
+                                    alt="Find us on Google+"/></a><a
+                                href="https://www.youtube.com/watch?v=ZZuFOQkhO20" target="_blank"><img
+                                    src="<?php echo get_template_directory_uri() ?>/img/youtube.png"
                                     alt="Find us on Google+"/></a></p>
                 </div>
             </div>
