@@ -214,7 +214,7 @@
                                     alt="Find us on Google+"/></a><a
                                 href="https://www.youtube.com/watch?v=ZZuFOQkhO20" target="_blank"><img
                                     src="<?php echo get_template_directory_uri() ?>/img/youtube.png"
-                                    alt="Find us on Google+"/></a></p>
+                                    alt="See our YouTube Video"/></a></p>
                 </div>
             </div>
             <div id="footer-logo" class="col-xs-12 text-center">
